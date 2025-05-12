@@ -88,3 +88,4 @@ Rails.application.configure do
 
   # Allow requests from any host in development
   config.hosts << /.*/
+end
